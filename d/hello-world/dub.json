@@ -1,9 +1,0 @@
-{
-	"name": "hello-world",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2015, rik",
-	"authors": ["rik"],
-	"dependencies": {
-	},
-	"targetPath" : "build/"
-}
